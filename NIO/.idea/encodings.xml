@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/1.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/2.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/3.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/4.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/5.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/TCP.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/UDP.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/source.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/file/threads.txt" charset="GBK" />
+  </component>
+</project>
